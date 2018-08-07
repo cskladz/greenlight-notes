@@ -1,0 +1,1 @@
+{"title":"id maker","message":"const idMaker = function(prefix) {\nreturn function(name){\n\tconst randNum = getRandomNum(100000);\n\treturn '${name} - ${prefix}${randNum}';\n\t}\n\t}\n\t","id":"c51f38e6-8856-4428-84c6-27b7fc175717","date":"2018-08-07T18:40:44.662Z"}
