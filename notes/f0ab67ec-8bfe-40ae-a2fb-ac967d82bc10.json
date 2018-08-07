@@ -1,0 +1,1 @@
+{"title":"seen yet","message":"var seenYet =  function() {\n\tvar archive = {};\n\treturn function (val){\n\t\tif(archive[val]) {\n\t\t\treturn true;\n\t\t}\n\t\tarchive[val] =true;\n\t\treturn false;\n\t}\n}\n\nconst thing = seenYet();\nthing(\"hello\");","id":"f0ab67ec-8bfe-40ae-a2fb-ac967d82bc10","date":"2018-08-07T18:47:06.037Z"}
