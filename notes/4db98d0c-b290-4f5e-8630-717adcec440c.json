@@ -1,0 +1,1 @@
+{"title":"method invocation","message":"const cain = {\nname: 'cain',\nsleep() {\n\tconsole.log(this);\n\t},\n};\n\ncain.sleep();","id":"4db98d0c-b290-4f5e-8630-717adcec440c","date":"2018-08-09T18:33:15.399Z"}
