@@ -1,0 +1,1 @@
+{"title":"construction","message":"function Pizza(size = 'lg'){\nthis.size = size;\nthis.toppings = ['cheese'];\n}\nPizza.prototype = {\naddTopping: function(topping){\n\tthis.toppings.push(topping);\n\t},\n};\nconst pizza = new Pizza();\npizza.addTopping\n.....","id":"3273d91b-a85f-4d9c-9707-dd44a4e69cd2","date":"2018-08-09T18:22:17.442Z"}
