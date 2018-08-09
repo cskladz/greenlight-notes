@@ -1,0 +1,1 @@
+{"title":"aroow function","message":"lexical scope\n\ncont person = {\nname: 'Jake',\n\tsayName: function(){\n\t\tconsole.log(this.name);\n\t},\n\tsayNameLater: function(delay){\n\tsetTimeout( () => \n\t.....","id":"8a35552c-e1bd-4a09-b8ac-891abddb941c","date":"2018-08-09T18:30:01.437Z"}
