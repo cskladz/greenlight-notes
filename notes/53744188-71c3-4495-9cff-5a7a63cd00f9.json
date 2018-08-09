@@ -1,0 +1,1 @@
+{"title":"prototype","message":"function greet(...messages) {\n\tconsole.log(\"I'm ${this.name}\");\n\tmessage.forEach(msg => console.log(msg));\n}\n\nconst context = {name: 'Contexto'}\n\n....","id":"53744188-71c3-4495-9cff-5a7a63cd00f9","date":"2018-08-09T18:19:38.370Z"}
